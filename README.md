@@ -14,4 +14,6 @@ PedSkills: https://www.mixmods.com.br/2022/08/pedskills/
 
 Beta Mulholland Safehouse: https://www.mixmods.com.br/2022/01/beta-mulholland-safehouse-casa-das-colinas-hd-version/
 
+Improved Default Armoury: https://www.mixmods.com.br/2021/03/improved-default-armoury-armas-melhoradas-com-reflexos/
+
 ExGangWars: https://www.mixmods.com.br/2017/07/extended-gang-wars/
